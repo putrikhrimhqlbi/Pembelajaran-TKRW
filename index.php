@@ -3,7 +3,7 @@
         <head>
             <title></title>
             <body>
-                <h1> Sistem Informasi Mahasiswa</h1>
+                <h1> ARSIP SEKOLAH </h1>
                 
             </body>
         </head>

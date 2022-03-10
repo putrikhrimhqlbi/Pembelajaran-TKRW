@@ -4,9 +4,9 @@
     $password = "";
     $dbname ="project_tkrw";
 
-    $conn = mysqli_connect($servername, $username, $password, $project_tkrw);
+    $koneksi = mysqli_connect($servername, $username, $password, $dbname);
 
-    if(!$conn){
+    if(!$koneksi){
         die("connection failed " . mysqli_connect_error());
     }else{
         echo "koneksi berhasil";
